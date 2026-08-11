@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 Welcome to my GitHub! I'm a software engineer with 4+ years of experience building scalable web applications, RESTful APIs, and AI-powered systems. Below is an overview of my skills and work.
+> *Building systems and skills on the same pipeline — continuous learning, continuous integration.*
 
 ## 💫 About Me:
 
