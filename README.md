@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a software engineer with 4+ years of experience buildi
 
 I'm a full-stack software engineer with a strong foundation across backend, frontend, cloud infrastructure, and AI/ML. I enjoy building production-grade systems — from microservices and CI/CD pipelines to RAG pipelines and agentic AI. Currently a Graduate Research & Teaching Assistant at Texas Tech University, previously a Software Developer at Societe Generale. Increasingly focused on LLM integration, RAG, agentic AI, and data engineering.
 
-🌱 Currently learning: **Airflow, dbt, and Snowflake** to round out my data engineering skill set.
+🌱 Currently learning: **Airflow, dbt, and Snowflake** for data engineering, and going deeper into **agentic AI** — multi-agent systems, tool use, and autonomous workflows.
 
 ## 🌐 Socials:
 
@@ -91,5 +91,11 @@ I'm a full-stack software engineer with a strong foundation across backend, fron
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=revi2112&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=revi2112&theme=react-dark&hide_border=true)
+
+---
 
 Feel free to explore my projects and reach out if you'd like to collaborate or learn more about my work!
