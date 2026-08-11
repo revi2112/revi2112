@@ -85,18 +85,6 @@ I'm a full-stack software engineer with a strong foundation across backend, fron
 ![JIRA](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=revi2112&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=revi2112&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=revi2112&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=revi2112&theme=react-dark&hide_border=true)
-
 ---
 
 Feel free to explore my projects and reach out if you'd like to collaborate or learn more about my work!
