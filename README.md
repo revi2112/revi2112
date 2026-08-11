@@ -91,10 +91,5 @@ I'm a full-stack software engineer with a strong foundation across backend, fron
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=revi2112&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=revi2112&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 Feel free to explore my projects and reach out if you'd like to collaborate or learn more about my work!
